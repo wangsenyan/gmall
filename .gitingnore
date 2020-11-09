@@ -1,0 +1,11 @@
+dubbo-consumer/target
+dubbo-consumer/.mvn
+dubbo-interface/target
+dubbo-interface/.mvn
+dubbo-provider/target
+dubbo-provider/.mvn
+.idea
+*.iml
+file
+files
+logs
